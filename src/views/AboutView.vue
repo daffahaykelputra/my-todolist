@@ -1,5 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <h1>PERKENALKAN NAMA SAYA DAFFA HAYKEL PUTRA</h1>
+    <P>ini adalah aplikasi to do list pertama saya</P>
   </div>
 </template>
+
