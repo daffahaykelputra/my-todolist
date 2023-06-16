@@ -1,5 +1,6 @@
 <template>
   <h1>Selamat Datang Di To Do List Daffa</h1>
+  <P>Masukkan kegiatan pertama anda</P>
   <div>
     <input v-model="newTodo" placeholder="Masukkan Kegiatan">
     <button @click="addTodo">Tambah Kegiatan</button>
